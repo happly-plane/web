@@ -384,10 +384,10 @@ plugins:
     enable: true # Whether to enable
     type: fixed # fixed, mini
     audios:
-      - name: # audio name
-        artist: # audio artist
-        url: # audio url
-        cover: # audio cover url
+      - name: 阿房宫赋# audio name
+        artist: 阮言# audio artist
+        url: 'source/music/1.mp3'# audio url
+        cover: https://y.qq.com/music/photo_new/T002R300x300M0000031I3co2mIvkF_1.jpg?max_age=2592000 # audio cover url
 #      - name: # audio name
 #        artist: # audio artist
 #        url: # audio url
