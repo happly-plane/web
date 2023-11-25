@@ -8,7 +8,7 @@ tags:
     - "Python"
     - "机器学习"
     - "学习"
-thumbnail: "/img/TensorFlow_logo.svg.png"
+thumbnail: "/img/download.png"
 sticky: 999
 ---
 
